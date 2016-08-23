@@ -1,0 +1,2 @@
+This is going to test how we stage files in git.
+We can stage multiple files and commit them all together.

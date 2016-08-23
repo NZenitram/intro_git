@@ -1,0 +1,3 @@
+We are going to commit this to github. This will be
+the first git commit with text in the file. Lets see
+what happens. 
